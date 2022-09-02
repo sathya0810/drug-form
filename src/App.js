@@ -30,7 +30,7 @@ function App() {
         <DrugForm formData={formJsonOne} />
       </div>
       <h1>Drug form 2</h1>
-      <div className='form-two'>
+      <div className='form-two section'>
         <DrugForm formData={formJsontwo} />
       </div>
     </div>
